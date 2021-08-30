@@ -1,0 +1,2 @@
+# dino
+y=mx+c
